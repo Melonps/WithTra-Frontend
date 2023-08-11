@@ -1,3 +1,8 @@
+
+![Frame 11](https://github.com/Melonps/WithTra-Frontend/assets/95263124/210a0492-b76c-4ed9-9a84-395d744914ad)
+
+![Frame 6](https://github.com/Melonps/WithTra-Frontend/assets/95263124/77bcfcf8-900d-4ad6-969f-02557599c507)
+
 # WITHTRA-FRONTEND
 
 このリポジトリは、WITHTRA-FRONTEND プロジェクトの一部です。以下に、このプロジェクトのセットアップ手順と必要な設定について説明します。
